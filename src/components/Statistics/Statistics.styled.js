@@ -2,7 +2,7 @@ import styled from '@emotion/styled';
 
 export const StyledStatistics = styled.section`
   width: 350px;
-  margin: 0 auto 10px;
+  margin: 0 auto 15px;
   background-color: white;
 `;
 
